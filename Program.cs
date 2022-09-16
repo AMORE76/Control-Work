@@ -32,3 +32,22 @@ string[] InputArrayByUser()
     }
     return arr;
 }
+
+string[] CreateArrayByCondition(string [] arr, int  size = 0, int index = 0)
+{
+    for (int i = 0; i < arr.Length; i++)
+    {
+        if (arr[i].Length <= 3) size++;
+    }
+    string[] newArr = new string[size];
+    for (int i = 0; i < arr.Length; i++)
+    {
+        if (arr[i].Length <= 3)
+        {
+            newArr[index] = arr[i];
+            index++;
+        }
+    }
+    return newArr;
+}
+
