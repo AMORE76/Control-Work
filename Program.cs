@@ -51,3 +51,12 @@ string[] CreateArrayByCondition(string [] arr, int  size = 0, int index = 0)
     return newArr;
 }
 
+Console.WriteLine("Программа,принимающая на вход массив строк и возвращающая массив строк длиной меньшей либо равной 3 символам.");
+Console.WriteLine();
+
+string[] initialData = InputArrayByUser();
+Console.WriteLine();
+Console.WriteLine("[{0}] - исходный массив строк ", string.Join(", ", initialData));
+Console.WriteLine();
+string[] newData = CreateArrayByCondition(arr: initialData);
+Console.WriteLine("[{0}] - итоговый массив строк длиной =< 3 символам", string.Join(", ", newData));
