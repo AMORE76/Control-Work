@@ -1,0 +1,15 @@
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\bin\Debug\net6.0\Final CW.exe
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\bin\Debug\net6.0\Final CW.deps.json
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\bin\Debug\net6.0\Final CW.runtimeconfig.json
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\bin\Debug\net6.0\Final CW.dll
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\bin\Debug\net6.0\Final CW.pdb
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\obj\Debug\net6.0\Final CW.csproj.AssemblyReference.cache
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\obj\Debug\net6.0\Final CW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\obj\Debug\net6.0\Final CW.AssemblyInfoInputs.cache
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\obj\Debug\net6.0\Final CW.AssemblyInfo.cs
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\obj\Debug\net6.0\Final CW.csproj.CoreCompileInputs.cache
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\obj\Debug\net6.0\Final CW.dll
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\obj\Debug\net6.0\refint\Final CW.dll
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\obj\Debug\net6.0\Final CW.pdb
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\obj\Debug\net6.0\Final CW.genruntimeconfig.cache
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Final CW\obj\Debug\net6.0\ref\Final CW.dll
